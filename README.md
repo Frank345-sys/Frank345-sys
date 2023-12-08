@@ -1,3 +1,5 @@
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFrank345-sys&countColor=%23263759" />
+
 # Hola! mi nombre es Frank 👋
 ### Futuro desarrollador web full-stack
 
@@ -19,25 +21,39 @@ A lo largo de mi trayectoria academica, me encuentro inmerso en un bootcamp de t
 <table style="width:100%">
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/preview_web.png">
+<h3 align="center" >Proyecto 1 - Aprender a aprender</h3>
+<a href="https://frank345-sys.github.io/web_project_1_es/">
+<img style="" src="https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/preview_web.png">
 </a>
 </td>
 <td>
+<h3 align="center" >Proyecto 2 - De patria a patria</h3>
+<a href="https://frank345-sys.github.io/web_project_3_esp/">
 <img src="https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/preview_web_2.png">
-</a>
+</a >
 </td>
 </tr>
 <tr>
 <td>
+<h3 align="center">Proyecto 3 - Around in the U.S</h3>
+<a href="https://frank345-sys.github.io/web_project_4_esp/">
 <img src="https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/preview_web_3.png">
 </a>
 </td>
 <td>
+<h3 align="center">CV en HTML, CSS y JS</h3>
+<a href="https://frank345-sys.github.io/Mi-CV/">
 <img src="https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/preview_web_4.png">
 </a>
 </td>
 </tr>
 </table>
+
+
+<h4 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=serif&pause=1000&color=F7F7F7&center=true&random=false&width=472&lines=Gracias+por+pasarte+por+mi+perfil!+%3A);No+olvides+pasarte+por+mis+repositorios;Hasta+luego!%F0%9F%91%8B" alt="Typing SVG" /></a>
+</h4>
+
 <!-- -->
 
 <!--
