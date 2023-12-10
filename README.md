@@ -51,7 +51,7 @@ A lo largo de mi trayectoria academica, me encuentro inmerso en un bootcamp de t
 
 
 <h4 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=serif&pause=1000&color=F7F7F7&center=true&random=false&width=472&lines=Gracias+por+pasarte+por+mi+perfil!+%3A);No+olvides+pasarte+por+mis+repositorios;Hasta+luego!%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=serif&pause=1000&color=F7F7F7&center=true&random=false&width=472&lines=Gracias+por+pasarte+por+mi+perfil!+%3A);No+olvides+pasarte+por+mis+repositorios+👇;Hasta+luego!%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h4>
 
 <!-- -->
