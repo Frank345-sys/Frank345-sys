@@ -11,10 +11,11 @@ A lo largo de mi trayectoria academica, me encuentro inmerso en un bootcamp de t
 
 ## Tecnologías:
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Mis proyectos más destacados:
 
@@ -35,8 +36,8 @@ A lo largo de mi trayectoria academica, me encuentro inmerso en un bootcamp de t
 </tr>
 <tr>
 <td>
-<h3 align="center">Proyecto 3 - Around in the U.S</h3>
-<a href="https://frank345-sys.github.io/web_project_4_esp/">
+<h3 align="center">Proyecto 3 - Around in the U.S React</h3>
+<a href="https://frank345-sys.github.io/web_project_around_react/">
 <img src="https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/preview_web_3.png">
 </a>
 </td>
@@ -54,19 +55,4 @@ A lo largo de mi trayectoria academica, me encuentro inmerso en un bootcamp de t
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=serif&pause=1000&color=F7F7F7&center=true&random=false&width=472&lines=Gracias+por+pasarte+por+mi+perfil!+%3A);No+olvides+pasarte+por+mis+repositorios+👇;Hasta+luego!%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h4>
 
-<!-- -->
 
-<!--
-**Frank345-sys/Frank345-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
