@@ -1,58 +1,83 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFrank345-sys&countColor=%23263759" />
 
-# Hola! mi nombre es Frank 👋
-### Futuro desarrollador web full-stack
+# Hola, soy Frank 👋  
+### Front-End Developer | React.js
 
-![https://github.com/Frank345-sys](https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/Banner%20de%20github.png)
+![Banner](https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/Banner%20de%20github.png)
 
-Ingeniero en Sistemas Computacionales especializado en Ingeniería de Software, egresado del Instituto Tecnológico Superior de Xalapa. He liderado en proyectos de software desde el diseño hasta la documentación. Me caracterizo por ser responsable, colaborativo, proactivo, creativo y autónomo. Apasionado por el aprendizaje continuo, siempre en busca de nuevas oportunidades para adquirir conocimientos y experiencias únicas que mejoren constantemente mi desempeño profesional.
+Ingeniero en Sistemas Computacionales y Front-End Developer con experiencia en desarrollo de aplicaciones web y e-commerce en entornos productivos. He participado en proyectos reales como tiendas en línea, plataformas B2B, sistemas ERP internos y landing pages, enfocado en la creación de interfaces escalables, refactorización de código legado y optimización de performance.
 
-A lo largo de mi trayectoria academica, me encuentro inmerso en un bootcamp de tecnología en TripleTen, donde estoy absorbiendo conocimientos y aplicando habilidades en HTML, CSS, JS y React. Este proceso no solo busca consolidar mis destrezas, sino también expandir mi comprensión en las tecnologías emergentes del desarrollo web, el cual es el enfoque a lo que realmente deseo dedicarme.
+Me especializo en React, arquitectura de componentes reutilizables y mejora de la experiencia de usuario (UI/UX), con enfoque en código mantenible, trabajo colaborativo y entrega de valor medible al producto.
 
-## Tecnologías:
+---
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 🛠️ Tecnologías
 
-## Mis proyectos más destacados:
+**Core**
+- JavaScript (ES6+), TypeScript
+- React.js, Next.js, Astro.js
+- HTML5, CSS3
 
-<table style="width:100%">
+**Styling & UI**
+- Tailwind CSS, BEM, Panda CSS
+- Responsive Design, Mobile-first, UI/UX
+
+**Tools**
+- Git / GitHub
+- REST APIs
+- Figma
+
+---
+
+## 🚀 Proyectos personales más destacados
+
+<table>
 <tr>
-<td>
-<h3 align="center" >Proyecto 1 - Aprender a aprender</h3>
+<td width="50%">
+<h3 align="center">Aprender a Aprender</h3>
 <a href="https://frank345-sys.github.io/web_project_1_es/">
-<img style="" src="https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/preview_web.png">
+<img src="https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/preview_web.png" />
 </a>
+<p align="center">HTML semántico, CSS (BEM), responsive design</p>
 </td>
-<td>
-<h3 align="center" >Proyecto 2 - De patria a patria</h3>
+
+<td width="50%">
+<h3 align="center">De Patria a Patria</h3>
 <a href="https://frank345-sys.github.io/web_project_3_esp/">
-<img src="https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/preview_web_2.png">
-</a >
+<img src="https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/preview_web_2.png" />
+</a>
+<p align="center">Maquetación avanzada y diseño responsivo</p>
 </td>
 </tr>
+
 <tr>
-<td>
-<h3 align="center">Proyecto 3 - Around in the U.S React</h3>
+<td width="50%">
+<h3 align="center">Around in the U.S (React)</h3>
 <a href="https://frank345-sys.github.io/web_project_around_react/">
-<img src="https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/preview_web_3.png">
+<img src="https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/preview_web_3.png" />
 </a>
+<p align="center">React, componentes reutilizables, estado y APIs</p>
 </td>
-<td>
-<h3 align="center">CV en HTML, CSS y JS</h3>
+
+<td width="50%">
+<h3 align="center">CV Web</h3>
 <a href="https://frank345-sys.github.io/Mi-CV/">
-<img src="https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/preview_web_4.png">
+<img src="https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/preview_web_4.png" />
 </a>
+<p align="center">HTML, CSS y JavaScript</p>
 </td>
 </tr>
 </table>
 
+---
+
+## 📫 Contacto
+
+- 💻 GitHub: [github.com/Frank345-sys](https://github.com/Frank345-sys)
+- 🌐 Portafolio: https://frank345-sys.github.io/portfolio_web/
+- 📧 Email: francgonzalez456@gmail.com
 
 <h4 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=serif&pause=1000&color=F7F7F7&center=true&random=false&width=472&lines=Gracias+por+pasarte+por+mi+perfil!+%3A);No+olvides+pasarte+por+mis+repositorios+👇;Hasta+luego!%F0%9F%91%8B" alt="Typing SVG" /></a>
+Gracias por visitar mi perfil 👋  
+No olvides revisar mis repositorios 🚀
 </h4>
-
-
