@@ -3,7 +3,7 @@
 # Hola, soy Frank 👋  
 ### Front-End Developer | React.js
 
-![Banner](https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/Banner%20de%20github.png)
+![Banner](https://raw.githubusercontent.com/Frank345-sys/Frank345-sys/main/src/img/Banner-Front-end.png)
 
 Ingeniero en Sistemas Computacionales y Front-End Developer con experiencia en desarrollo de aplicaciones web y e-commerce en entornos productivos. He participado en proyectos reales como tiendas en línea, plataformas B2B, sistemas ERP internos y landing pages, enfocado en la creación de interfaces escalables, refactorización de código legado y optimización de performance.
 
